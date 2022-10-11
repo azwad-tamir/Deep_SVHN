@@ -14,8 +14,12 @@ accuracy of 59% while the classifier reports a training accuracy of 94% and a te
 54.41% respectively
 
 Run Instructions:
-1. Run - "pip install -r requirements.txt"
+1. Download the model weights and put them in the main folder: 
+   saved_model.pth: https://knightsucfedu39751-my.sharepoint.com/:u:/g/personal/a_tamir_knights_ucf_edu/ET42pMxfe39OiIou9wkrHH0Bwu3cpJdeHM0I43O-5m422g?e=Wa7DRV
+   weights.h5: https://knightsucfedu39751-my.sharepoint.com/:u:/g/personal/a_tamir_knights_ucf_edu/EUom-5PxTdZPv2Duaob--lEB9BObF1c0iP54rMfKQjcW7w?e=3nrroF
 
-2. Then run "main.py"
+2. Run - "pip install -r requirements.txt"
+
+3. Then run "main.py"
 
 Optional- If you want to run detector and classifier, you need the data downloaded from the SVHN dataset and store it in "data" folder.
