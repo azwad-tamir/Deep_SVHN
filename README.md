@@ -1,4 +1,4 @@
-# Deep_SVHN
+# Deep_SVHN: Street House Number Detection System
 ## Numerical Digit Detection and Classification on SVHN dataset
 A numerical digit detection system has been build based on deep convolutional neural networks.
 The model is trained and tested on the SVHN dataset which consists of bulk multi-digit images
